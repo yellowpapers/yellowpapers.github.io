@@ -16,9 +16,9 @@ timezone:
 
 title: 黄表纸的博客 # the main title
 
-tagline: 我是黄表纸，这是我的博客 # it will display as the subtitle
+tagline: 生活不易,欢迎打赏,编程菜鸟，学习炒股 # it will display as the subtitle
 
-description: 生活不易,欢迎打赏,编程菜鸟，学习炒股# used by seo meta and the atom feed
+description: 生活不易,欢迎打赏,编程菜鸟，学习炒股 # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
