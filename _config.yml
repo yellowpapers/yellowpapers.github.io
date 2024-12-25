@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: zh-cn
+lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone:
@@ -16,9 +16,9 @@ timezone:
 
 title: 黄表纸的博客 # the main title
 
-tagline: 生活不易,欢迎打赏,编程菜鸟，学习炒股 # it will display as the subtitle
+tagline: 生活不易,欢迎打赏,炒股菜鸟 # it will display as the subtitle
 
-description: 生活不易,欢迎打赏,编程菜鸟，学习炒股 # used by seo meta and the atom feed
+description: 生活不易,欢迎打赏 # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
